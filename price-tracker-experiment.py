@@ -1,3 +1,5 @@
+###This code can retrieve the price of a product from any given webpage
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
